@@ -17,7 +17,7 @@ from datetime import datetime, timedelta
 
 BOT_TOKEN = "8625802970:AAHO5SyEW4acduEF5JWjfckA3AEfSDmoVIU"
 MAIN_ADMIN_ID = 6408034985
-OWNER_NAME = "RED BHAI"
+OWNER_NAME = "TROLEX"
 OWNER_USERNAME = "@trolex00"
 OWNER_LINK = "https://t.me/trolex00"
 
