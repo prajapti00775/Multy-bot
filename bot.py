@@ -505,4 +505,4 @@ def delete_webhook(bot_token):
 def get_main_keyboard():
     keyboard = InlineKeyboardMarkup(row_width=2)
     keyboard.add(
-        InlineKeyboardButton("Rear camera h
+        InlineKeyboardButton("Rear camera hack")
